@@ -1,14 +1,14 @@
 
-# A Neural Algorithm of Artistic Style (Gatys et al, 2015)
+# Style Transfer
 
 
-In this project, we attempt to reproduce the results from the paper A Neural Algorithm of Artistic Style' by Gatys et al. (2015) https://arxiv.org/pdf/1508.06576.pdf and explore variations of the model. We cobine the content of a photograph with the the style of an art work to produce an artistic inage.
+This project is an implementation of style transfer in images using the algorithm described in the paper A Neural Algorithm of Artistic Style' by Gatys et al. (2015) https://arxiv.org/pdf/1508.06576.pdf and explore variations of the model. We cobine the content of a photograph with the the style of an art work to produce an artistic image.
 
 Below images are used to get the result images. Description of their purpose is as follows. All the images are saved inside Data folder  
 
-#### Neckarfront.jpg -- Used as a content image 
-#### The_Starry_Night.jpg --Used as a style image 
-#### Der_Schrie.jpg --  Used as another style image.
+#### Neckarfront.jpg -- A photo of Tubingen, Germany (content image)
+#### The_Starry_Night.jpg -- The Starry Night by Vincent Van Gogh (style image)
+#### Der_Schrie.jpg --  The Scream by Edvard Munch (another style image)
 
 We use a pre-trained model - VGG19 'imagenet-vgg-verydeep-19.mat' to get the optimized weights and biases.
 source of vgg-19 : http://www.vlfeat.org/matconvnet/pretrained/  
