@@ -2,7 +2,7 @@
 # A Neural Algorithm of Artistic Style (Gatys et al, 2015)
 
 
-In this project, we attempt to reproduce the results from the paper A Neural Network of Artistic Style' by Gatys et al. (2015) and explore variations of the model. We cobine the content of a photograph with the the style of an art work to produce an artistic inage.
+In this project, we attempt to reproduce the results from the paper A Neural Algorithm of Artistic Style' by Gatys et al. (2015) https://arxiv.org/pdf/1508.06576.pdf and explore variations of the model. We cobine the content of a photograph with the the style of an art work to produce an artistic inage.
 
 Below images are used to get the result images. Description of their purpose is as follows. All the images are saved inside Data folder  
 
