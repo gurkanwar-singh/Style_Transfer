@@ -2,7 +2,7 @@
 # Style Transfer
 
 
-This project is an implementation of style transfer in images using the algorithm described in the paper A Neural Algorithm of Artistic Style' by Gatys et al. (2015) https://arxiv.org/pdf/1508.06576.pdf and explore variations of the model. We cobine the content of a photograph with the the style of an art work to produce an artistic image.
+This project is an implementation of style transfer in images using the algorithm described in the paper 'A Neural Algorithm of Artistic Style' by Gatys et al. (2015) https://arxiv.org/pdf/1508.06576.pdf and explore variations of the model. We combine the content of a photograph with the the style of an art work to produce an artistic image.
 
 Below images are used to get the result images. Description of their purpose is as follows. All the images are saved inside Data folder  
 
