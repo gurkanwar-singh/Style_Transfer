@@ -26,3 +26,5 @@ Hence, we are optimizing the total_loss twice - to create the result of the orig
 ### output2499_1.png -- Output of the first run (content +style)
 ### output2499_2.png -- Output of the second run (content +style1 + style2)
 
+A comprehensive report is available to view in form of the pdf file: ###Project_Report
+
